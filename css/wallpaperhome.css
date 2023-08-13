@@ -1,0 +1,24 @@
+.align{
+	text-align: center;
+	text-decoration: none;
+}
+body{
+	background: black;
+	
+}
+h1 {
+	font-family: cursive;
+	font-size: 60px;
+	color: blue;
+}
+
+
+
+.text{
+	font-family: cursive;
+	font-size: 30px;
+	color: blue;
+}
+h6{
+	font-size: 15px;
+}

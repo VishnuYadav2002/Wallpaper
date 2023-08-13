@@ -1,0 +1,12 @@
+<a href="addanime.php">Anime</a><br><br>
+<a href="addanimal.php">Animal</a><br><br>
+<a href="addbike.php">Bike</a><br><br>
+<a href="addcar.php">Car</a><br><br>
+<a href="adddesign.php">Design</a><br><br>
+<a href="adddrawing.php">Drawing</a><br><br>
+<a href="addentertainment.php">Entertainment</a><br><br>
+<a href="addfunny.php">Funny</a><br><br>
+<a href="addlogo.php">Logo</a><br><br>
+<a href="addlove.php">Love</a><br><br>
+<a href="addmusic.php">Music</a><br><br>
+<a href="addnature.php">Nature</a><br><br>
